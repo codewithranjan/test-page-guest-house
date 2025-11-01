@@ -427,7 +427,7 @@ p {
     padding: 50px;
     box-shadow: 0 5px 20px var(--shadow);
     max-width: 1200px;
-   
+}
 
 .by-air-heading {
     color: var(--maroon);
@@ -1393,4 +1393,5 @@ a:hover, button:hover {
 /* Smooth Transitions */
 * {
     transition: background-color 0.3s ease, color 0.3s ease;
+
 }
